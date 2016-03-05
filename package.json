@@ -1,7 +1,7 @@
 {
   "name": "state-pipe",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Declare a set of pipes and transformations for passing observable state in an application",
   "license": "MIT",
   "repository": "bendrucker/state-pipe",
