@@ -1,0 +1,44 @@
+{
+  "name": "state-pipe",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Declare a set of pipes and transformations for passing observable state in an application",
+  "license": "MIT",
+  "repository": "bendrucker/state-pipe",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "state",
+    "pipe",
+    "observable",
+    "compose",
+    "observ",
+    "watch",
+    "transform"
+  ],
+  "devDependencies": {
+    "observ": "~0.2.0",
+    "observ-struct": "~6.0.0",
+    "standard": "^6.0.0",
+    "tape": "^4.0.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "array-last": "~1.0.2",
+    "call-all-fns": "~1.0.0",
+    "cast-array": "~1.0.1",
+    "map-values": "~1.0.1",
+    "object-values": "~1.0.0",
+    "observ": "~0.2.0",
+    "value-get": "~1.0.0",
+    "value-pipe": "~1.0.0"
+  }
+}
