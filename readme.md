@@ -1,4 +1,4 @@
-# state-pipe [![Build Status](https://travis-ci.org/bendrucker/state-pipe.svg?branch=master)](https://travis-ci.org/bendrucker/state-pipe)
+# state-pipe [![Build Status](https://travis-ci.org/bendrucker/state-pipe.svg?branch=master)](https://travis-ci.org/bendrucker/state-pipe) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/state-pipe.svg)](https://greenkeeper.io/)
 
 > Declare a set of pipes and transformations for passing observable state in an application
 
